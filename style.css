@@ -10,7 +10,7 @@ body {
     align-items: center;
     justify-content: center;
     opacity: 0.9;
-    background: url('grains.jpg') center/cover no-repeat;
+    background-color:pink;
 }
 
 .calculator {
